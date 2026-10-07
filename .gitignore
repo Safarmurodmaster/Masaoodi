@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Bot maxfiy fayllar
+.env
+bot.db
+
+# Muhim emas
+*.log
+.DS_Store
